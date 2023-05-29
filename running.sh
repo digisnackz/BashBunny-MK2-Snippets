@@ -1,6 +1,5 @@
 #!/bin/bash
-# snippet to install python/openssl dependenccies. Working example of first try. 5/26
-# -Eosyne 5/1/23
+# swapping stock sources
 
 sources=("deb http://archive.debian.org/debian/ jessie-backports main"
 "deb-src http://archive.debian.org/debian/ jessie-backports main"
